@@ -1,12 +1,25 @@
-# Nova ERP — Demo
+# Nova ERP Dashboard
 
-Panel de demostración para un ERP multinegocio con ventas, inventario, rentabilidad y comisiones.
+Dashboard de un ERP multinegocio implementado con **Next.js**, **TypeScript** y **Tailwind CSS**.
 
-## Herramientas
-- HTML5
-- CSS moderno: Grid, variables y diseño responsive
-- JavaScript nativo para interacciones de la interfaz
-- Datos de muestra locales
+## Funcionalidades
+- Métricas de ventas, utilidad, comisiones y stock crítico.
+- Inventario interactivo: permite reponer unidades desde la interfaz.
+- Panel de rentabilidad por unidad de negocio.
+
+## Stack real
+- Next.js 15 (App Router)
+- React 19
+- TypeScript estricto
+- Tailwind CSS
 
 ## Ejecutar
-Abrí `index.html` o serví la carpeta de forma estática.
+
+```bash
+npm install
+npm run dev
+```
+
+Abrí http://localhost:3000.
+
+> Los datos son demostrativos y viven en el estado del cliente. El siguiente paso sería conectar una API y PostgreSQL.
