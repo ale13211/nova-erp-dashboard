@@ -39,4 +39,4 @@ Abrí [http://localhost:3000](http://localhost:3000).
 
 ## Perfil
 
-Proyecto de [Alejandro Insfrán](https://alejandroinsfran.dev/), desarrollador Full Stack y analista de sistemas.
+Proyecto de [Alejandro Insfran](https://alejandroinsfran.dev/), desarrollador Full Stack y analista de sistemas.
